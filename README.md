@@ -8,9 +8,11 @@
 
 This project is a faithful PyTorch implementation of [NeRF](http://www.matthewtancik.com/nerf) that **reproduces** the results while running **1.3 times faster**. The code is based on authors' Tensorflow implementation [here](https://github.com/bmild/nerf), and has been tested to match it numerically. 
 
-## use
+## usage
 
 If you want to debug it yourself, run run_nerf_annotations.py
+
+We also provide a Dockerfile for use.
 
 
 ## Installation
