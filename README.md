@@ -12,7 +12,7 @@ This project is a faithful PyTorch implementation of [NeRF](http://www.matthewta
 
 If you want to debug it yourself, run run_nerf_annotations.py
 
-We also provide a Dockerfile for use.
+We also provide Dockerfile and Docker-Image for use.
 
 
 ## Installation
